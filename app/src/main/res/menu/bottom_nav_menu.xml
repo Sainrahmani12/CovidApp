@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_beranda"
+        android:icon="@drawable/homevector"
+        android:title="@string/title_home" />
+
+    <item
+        android:id="@+id/navigation_provinsi"
+        android:icon="@drawable/provinsivector"
+        android:title="@string/title_provinsi" />
+
+    <item
+        android:id="@+id/navigation_info_app"
+        android:icon="@drawable/infovector"
+        android:title="@string/title_info_app" />
+
+</menu>

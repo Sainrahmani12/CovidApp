@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Covid App</string>
+    <string name="title_home">Home</string>
+    <string name="title_provinsi">Dashboard</string>
+    <string name="title_info_app">info App</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
